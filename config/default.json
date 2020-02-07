@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "eXohash",
+    "mongoUri": "mongodb+srv://mcodejs:12345@cluster0-myvtp.azure.mongodb.net/app?retryWrites=true&w=majority"
+
+}
